@@ -1,4 +1,4 @@
 # demo
 first repo
 <br>
-Leader - Shreyash
+Leader - Shreyash (IIIT Raichur)
